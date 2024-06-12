@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: "Outfit", sans-serif;
+ 
+    
+}
+body{
+    text-align: center;
+    height: 100vh;
+    font-family: "Outfit", sans-serif;
+}
+.btn {
+    font-family: "Outfit", sans-serif;
+    height: 50px;
+    width: 200px;
+    font-size: larger;
+    border:white solid;
+    border-width: 3px;
+    border-radius: 50px;
+    color: white;
+    background: black;
+}
